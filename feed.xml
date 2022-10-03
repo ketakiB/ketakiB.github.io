@@ -15,13 +15,13 @@
 		<itunes:subtitle>Listen Up Rubber Duck</itunes:subtitle>
 		<itunes:author>Ketaki Bhatkhande</itunes:author>
 		<itunes:summary>
-			Listen Up Rubber Duck is a podcast that I make for fun!
+			Listen Up Rubber Duck is a podcast that I make for fun. My goal is to create short and fun episodes on the latest developments in science and tech!
 		</itunes:summary>
 		<itunes:keywords>
-			technology,ideas,science
+			technology,science,innovation
 		</itunes:keywords>
 		<description>
-			Listen Up Rubber Duck is a podcast that I make for fun!
+			Listen Up Rubber Duck is a podcast that I make for fun. My goal is to create short and fun episodes on the latest developments in science and tech!
 		</description>
 		<itunes:owner>
 			<itunes:name>Ketaki Bhatkhande</itunes:name>
@@ -30,16 +30,16 @@
 		<itunes:image href="https://ketakiB.github.io/ListenUpRubberDuck.png"/>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:category text="Technology"/>
-		<itunes:category text="Leisure"/>
-		<itunes:category text="Health &amp; Fitness"/>
+		<itunes:category text="Science"/>
+		<itunes:category text="innovation"/>
 		<googleplay:author>Ketaki Bhatkhande</googleplay:author>
 		<googleplay:image href="https://ketakiB.github.io/ListenUpRubberDuck.png"/>
 		<item>
 			<title>James Webb Telescope and splash</title>
-			<itunes:title>IJames Webb Telescope and splash</itunes:title>
+			<itunes:title>James Webb Telescope and splash</itunes:title>
 			<itunes:author>Ketaki Bhatkhande</itunes:author>
 			<itunes:subtitle>
-				James Webb Telescope and splash
+				James Webb Telescope and Splash
 			</itunes:subtitle>
 			<itunes:summary>
 				<![CDATA[
@@ -58,7 +58,7 @@ Exploring the magic behind James Webb
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid isPermaLink="false">
-				https://ketakiB.github.io/audio/Episode1-Hubble.mp3.mp3
+				https://ketakiB.github.io/audio/Episode1-Hubble.mp3
 			</guid>
 			<pubDate>Sat, 01 Oct 2022 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
