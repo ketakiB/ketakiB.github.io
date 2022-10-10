@@ -63,6 +63,35 @@ The James Webb Space Telescope is the largest optical telescope in space and is 
 			<pubDate>Sat, 01 Oct 2022 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title> Svante Pääbo: 2022 Noble Prize in Medicine Winner </title>
+			<itunes:title>Svante Pääbo: 2022 Noble Prize in Medicine Winner</itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Svante Pääbo: 2022 Noble Prize in Medicine Winner
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+Savante Paabo is a swedish geneticist and specializes in evolutionary genetics. He won the Noble prize in medicine for discoveries concerning the genomes of extinct hominins and human evolution. In this episode we discuss his work and contributions to the field of evolutionary genetics that made him win the Noble prize.  
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Savante Paabo is a swedish geneticist and specializes in evolutionary genetics. He won the Noble prize in medicine for discoveries concerning the genomes of extinct hominins and human evolution. In this episode we discuss his work and contributions to the field of evolutionary genetics that made him win the Noble prize. 
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/cb-icon-1-yellow.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/SvantePaabo.mp3' length='21452927' type='audio/mp3'/>
+			<itunes:duration>670.27596875</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/SvantePaabo.mp3
+			</guid>
+			<pubDate>Sun, 09 Oct 2022 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
