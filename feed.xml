@@ -64,7 +64,7 @@ The James Webb Space Telescope is the largest optical telescope in space and is 
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 		<item>
-			<title> Svante Pääbo: 2022 Noble Prize in Medicine Winner </title>
+			<title> Svante Pääbo: 2022 Noble Prize Winner in Medicine </title>
 			<itunes:title>Svante Pääbo: 2022 Noble Prize in Medicine Winner</itunes:title>
 			<itunes:author>Ketaki Bhatkhande</itunes:author>
 			<itunes:subtitle>
@@ -88,6 +88,35 @@ Savante Paabo is a swedish geneticist and specializes in evolutionary genetics. 
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid isPermaLink="false">
 				https://ketakiB.github.io/audio/SvantePaabo.mp3
+			</guid>
+			<pubDate>Sun, 09 Oct 2022 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		<item>
+			<title> Show your true colors! </title>
+			<itunes:title>Show your true colors!</itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Show your true colors!
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about the magic behind Fall colors! 
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about the magic behind Fall colors!
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/Logo.jpg"/>
+			<enclosure url='https://ketakiB.github.io/audio/Episode3-FallColors.mp3' length='15841406' type='audio/mp3'/>
+			<itunes:duration>494.9159375</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Episode3-FallColors.mp3
 			</guid>
 			<pubDate>Sun, 09 Oct 2022 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
