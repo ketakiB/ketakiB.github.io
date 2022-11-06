@@ -121,6 +121,35 @@ In this episode we talk about the magic behind Fall colors!
 			<pubDate>Sun, 09 Oct 2022 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title> Fire On The Mountain! </title>
+			<itunes:title>Fire On The Mountain!</itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Fire On The Mountain!
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about volcanoes, how they erupt and send Splash on an epic journey to find what is inside the Earth's crust - Just in time as the Mauna Lao in Hawaii has been declared to be in 'heightened unrest'.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about volcanoes, how they erupt and send Splash on an epic journey to find what is inside the Earth's crust - Just in time as the Mauna Lao in Hawaii has been declared to be in 'heightened unrest'.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/FireOnTheMoiuntain.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Epsiode4-MaunaLoa.mp3' length='17220672' type='audio/mp3'/>
+			<itunes:duration>538.018</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Epsiode4-MaunaLoa.mp3
+			</guid>
+			<pubDate>Sun, 06 Nov 2022 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
