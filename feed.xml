@@ -150,6 +150,35 @@ In this episode we talk about volcanoes, how they erupt and send Splash on an ep
 			<pubDate>Sun, 06 Nov 2022 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title> Tech at the 2022 FIFA World cup </title>
+			<itunes:title>Tech at the 2022 FIFA World cup</itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Tech at the 2022 FIFA World cup
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about technology being used at the 2022 FIFA world cup. I think this is the most advanced football world cup yet - with everything from an advanced motion sensor equipped ball to "cool" cooling technologies.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about technology being used at the 2022 FIFA world cup. I think this is the most advanced football world cup yet - with everything from an advanced motion sensor equipped ball to "cool" cooling technologies.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/TechAtFIFA2022.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Episode5-TechAtFIFA2022.mp3' length='28824055' type='audio/mp3'/>
+			<itunes:duration>900.62371875</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Episode5-TechAtFIFA2022.mp3
+			</guid>
+			<pubDate>Tue, 06 Dec 2022 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
