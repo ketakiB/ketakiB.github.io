@@ -179,6 +179,35 @@ In this episode we talk about technology being used at the 2022 FIFA world cup. 
 			<pubDate>Tue, 06 Dec 2022 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title> They paid HOW MUCH for that NFT?! </title>
+			<itunes:title>They paid HOW MUCH for that NFT?!</itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				They paid HOW MUCH for that NFT?!
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about the craze behind NFT's and how Starbucks is at the forefront of using this tech to enhance customer experience!
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about the craze behind NFT's and how Starbucks is at the forefront of using this tech to enhance customer experience!
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/TheyPaidHOWMUCHforthatNFT.png"/>
+			<enclosure url='https://PODCAST URL/Episode6-NFTs.mp3' length='19740966' type='audio/mp3'/>
+			<itunes:duration>616.7771875</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Episode6-NFTs.mp3
+			</guid>
+			<pubDate>Tue, 18 Jan 2023 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
