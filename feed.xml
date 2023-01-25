@@ -208,6 +208,35 @@ In this episode we talk about the craze behind NFT's and how Starbucks is at the
 			<pubDate>Tue, 18 Jan 2023 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title> THE SKY ISN’T JUST BLUE??!!  </title>
+			<itunes:title>THE SKY ISN’T JUST BLUE??!! </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				THE SKY ISN’T JUST BLUE??!! 
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about Northern lights, myths surrouding them, and why they actually happen.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about Northern lights, myths surrouding them, and why they actually happen.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/NorthernLights.png"/>
+			<enclosure url='https://ketakiB.github.io/Episode7-NorthernLights.mp3' length='13844397' type='audio/mp3'/>
+			<itunes:duration>432.50940625</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Episode7-NorthernLights.mp3
+			</guid>
+			<pubDate>Wed, 25 Jan 2023 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
