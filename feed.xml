@@ -27,13 +27,13 @@
 			<itunes:name>Ketaki Bhatkhande</itunes:name>
 			<itunes:email>bhatkhandeketaki@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://ketakiB.github.io/Logo.jpg"/>
+		<itunes:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.png"/>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:category text="Science"/>
 		<itunes:category text="innovation"/>
 		<googleplay:author>Ketaki Bhatkhande</googleplay:author>
-		<googleplay:image href="https://ketakiB.github.io/Logo.jpg"/>
+		<googleplay:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.png"/>
 		<item>
 			<title>James Webb Telescope and Splash</title>
 			<itunes:title>James Webb Telescope and splash</itunes:title>
