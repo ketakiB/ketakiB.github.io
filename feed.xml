@@ -237,6 +237,35 @@ In this episode we talk about Northern lights, myths surrouding them, and why th
 			<pubDate>Wed, 25 Jan 2023 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title> What do you mean the battery is dead??!  </title>
+			<itunes:title>What do you mean the battery is dead??! </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				What do you mean the battery is dead??!
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about Lithium Ion Batteries, our current reliance on them for EV's, future advancemnets and the environmental impact of Lithium mining.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about Lithium Ion Batteries, our current reliance on them for EV's, future advancemnets and the environmental impact of Lithium mining.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/LithiumIonBatteries.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Episode8-LithiumIonBatteries.mp3' length='16221749' type='audio/mp3'/>
+			<itunes:duration>506.80165625</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Episode8-LithiumIonBatteries.mp3
+			</guid>
+			<pubDate>Sun, 26 March 2023 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
