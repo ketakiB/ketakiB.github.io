@@ -266,6 +266,35 @@ In this episode we talk about Lithium Ion Batteries, our current reliance on the
 			<pubDate>Sun, 26 March 2023 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title> Whats with colored Eggs?!  </title>
+			<itunes:title>Whats with colored Eggs?! </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Whats with colored Eggs?!
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about why eggs come in different colors, and how color, nutrition etc is determined based on the breed and diet of the chicken!
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about why eggs come in different colors, and how color, nutrition etc is determined based on the breed and diet of the chicken!
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/Episode9.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Episode9-BlueEggs.mp3' length='16649739' type='audio/mp3'/>
+			<itunes:duration>520.17634375</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Episode9-BlueEggs.mp3
+			</guid>
+			<pubDate>Thu, 6 April 2023 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
