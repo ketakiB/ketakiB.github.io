@@ -295,35 +295,37 @@ In this episode we talk about why eggs come in different colors, and how color, 
 			<pubDate>Thu, 6 April 2023 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		
 		<item>
-			<title> Slant Rant #1  </title>
-			<itunes:title>Slant Rant #1 </itunes:title>
+			<title> Metaverse  </title>
+			<itunes:title> Metaverse </itunes:title>
 			<itunes:author>Ketaki Bhatkhande</itunes:author>
 			<itunes:subtitle>
-				Slant Rant #1
+				Metaverse
 			</itunes:subtitle>
 			<itunes:summary>
 				<![CDATA[
-In this series we rant, talk about the best Indian tea on the market, talk a little sci and tech, discuss views on past Episodes etc etc etc. Oh I also sip tea on the side. 
+In this episode we talk about the Metaverse, podcasts in the metaverse and the future of this tech!
 ]]>
 			</itunes:summary>
 			<description>
 				<![CDATA[
-In this series we rant, talk about the best Indian tea on the market, talk a little sci and tech, discuss views on past Episodes etc etc etc. Oh I also sip tea on the side. 
+In this episode we talk about the Metaverse, podcasts in the metaverse and the future of this tech!
 ]]>
 			</description>
-			<itunes:image href="https://ketakiB.github.io/SlantRant.png"/>
-			<enclosure url='https://ketakiB.github.io/audio/SlantRant1.mp3' length='51698126' type='audio/mp3'/>
-			<itunes:duration>1615.4384375</itunes:duration>
+			<itunes:image href="https://ketakiB.github.io/Metaverse.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Episode11-Metaverse.mp3' length='33769348' type='audio/mp3'/>
+<itunes:duration>1055.164125</itunes:duration>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>10</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid isPermaLink="false">
-				https://ketakiB.github.io/audio/SlantRant1.mp3
+				https://ketakiB.github.io/audio/Episode11-Metaverse.mp3
 			</guid>
-			<pubDate>Sat, 15 April 2023 12:00:00 GMT</pubDate>
+			<pubDate>Fri, 27 October 2023 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+
 	</channel>
 </rss>
 
