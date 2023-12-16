@@ -356,6 +356,36 @@ In this episode we talk about the A23a iceberg which has most recently been on t
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 
+		<item>
+			<title> Starlink  </title>
+			<itunes:title> Starlink </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Starlink
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we talk about the future of the internet. Satellite internet by Starlink is here, and is here to stay! 
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we talk about the future of the internet. Satellite internet by Starlink is here, and is here to stay! 
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/Starlink.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Episode13-Starlink.mp3' length='22689250' type='audio/mp3'/>
+			<itunes:duration>708.9110625</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Episode13-Starlink.mp3
+			</guid>
+			<pubDate>Sat, 16 December 2023 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+
 	</channel>
 </rss>
 
