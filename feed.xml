@@ -386,6 +386,35 @@ In this episode we talk about the future of the internet. Satellite internet by 
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 
+		<item>
+			<title> Echos of Innovation #1 - Nikola Tesla  </title>
+			<itunes:title> Echos of Innovation #1 - Nikola Tesla </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Echos of Innovation #1 - Nikola Tesla
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this new series we delve into some of the greatest minds that shaped the world we live in today. In this episode we talk about Nikola Tesla - The man who single handedly changed the course of electricity amongst many other things! 
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this new series we delve into some of the greatest minds that shaped the world we live in today. In this episode we talk about Nikola Tesla - The man who single handedly changed the course of electricity amongst many other things! 
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/ECI1-NikolaTesla.png"/>
+			<enclosure url='https://https://ketakiB.github.io/audio/ECI1-NikolaTesla.mp3' length='48416310' type='audio/mp3'/>
+			<itunes:duration>1512.8816875</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://https://ketakiB.github.io/audio/ECI1-NikolaTesla.mp3
+			</guid>
+			<pubDate>Mon, 25 December 2023 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
