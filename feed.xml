@@ -415,6 +415,36 @@ In this new series we delve into some of the greatest minds that shaped the worl
 			<pubDate>Mon, 25 December 2023 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+
+		<item>
+			<title> Supersonic Saga: The Concorde  </title>
+			<itunes:title> Supersonic Saga: The Concorde </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Supersonic Saga: The Concorde
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode, embark with us on a thrilling journey through time, where we unravel the iconic tale of speed, luxury, and innovation that defined an era.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode, embark with us on a thrilling journey through time, where we unravel the iconic tale of speed, luxury, and innovation that defined an era.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/Concorde.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Concorde.mp3' length='26779399' type='audio/mp3'/>
+			<itunes:duration>836.72821875</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/ECI1-NikolaTesla.mp3
+			</guid>
+			<pubDate>Mon, 28 December 2023 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
