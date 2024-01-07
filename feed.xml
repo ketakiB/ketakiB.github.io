@@ -445,6 +445,36 @@ In this episode, embark with us on a thrilling journey through time, where we un
 			<pubDate>Thu, 28 December 2023 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+
+		<item>
+			<title> From Orchards to Algorithms: Silicon Valley's Rise  </title>
+			<itunes:title> From Orchards to Algorithms: Silicon Valley's Rise </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				From Orchards to Algorithms: Silicon Valley's Rise
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+Explore the transformation from humble orchards to tech empire in this episode. Discover how visionaries reshaped a region into the world's innovation powerhouse!
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Explore the transformation from humble orchards to tech empire in this episode. Discover how visionaries reshaped a region into the world's innovation powerhouse!
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/SiliconValley.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/SiliconValley.mp3' length='23640525' type='audio/mp3'/>
+			<itunes:duration>738.63840625</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/SiliconValley.mp3
+			</guid>
+			<pubDate>Sun, 07 Jan 2024 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
