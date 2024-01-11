@@ -27,13 +27,13 @@
 			<itunes:name>Ketaki Bhatkhande</itunes:name>
 			<itunes:email>bhatkhandeketaki@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.jpg"/>
+		<itunes:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.png"/>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:category text="Technology"/>
 		<itunes:category text="Science"/>
 		<itunes:category text="innovation"/>
 		<googleplay:author>Ketaki Bhatkhande</googleplay:author>
-		<googleplay:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.jpg"/>
+		<googleplay:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.png"/>
 		<item>
 			<title>James Webb Telescope and Splash</title>
 			<itunes:title>James Webb Telescope and splash</itunes:title>
@@ -492,7 +492,7 @@ This episode delves into the groundbreaking world of gene editing. Explore how C
 This episode delves into the groundbreaking world of gene editing. Explore how CRISPR technology is reshaping medicine, agriculture, and beyond! Join us in uncovering the ethical, scientific, and future implications of this genetic game-changer.
 ]]>
 			</description>
-			<itunes:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.jpg"/>
+			<itunes:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.png"/>
 			<enclosure url='https://ketakiB.github.io/audio/GeneEditing.mp3' length='26906458' type='audio/mp3'/>
 			<itunes:duration>840.6988125</itunes:duration>
 			<itunes:season>1</itunes:season>
