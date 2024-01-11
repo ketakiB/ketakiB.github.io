@@ -474,6 +474,37 @@ Explore the transformation from humble orchards to tech empire in this episode. 
 			<pubDate>Sat, 06 Jan 2024 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+
+			<item>
+			<title> Genetic Frontiers: Unleashing the Power of CRISPR  </title>
+			<itunes:title> Genetic Frontiers: Unleashing the Power of CRISPR </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Genetic Frontiers: Unleashing the Power of CRISPR
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+This episode delves into the groundbreaking world of gene editing. Explore how CRISPR technology is reshaping medicine, agriculture, and beyond! Join us in uncovering the ethical, scientific, and future implications of this genetic game-changer.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+This episode delves into the groundbreaking world of gene editing. Explore how CRISPR technology is reshaping medicine, agriculture, and beyond! Join us in uncovering the ethical, scientific, and future implications of this genetic game-changer.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/ListenUpRubbberDuckLogo.jpg"/>
+			<enclosure url='https://ketakiB.github.io/audio/GeneEditing.mp3' length='26906458' type='audio/mp3'/>
+			<itunes:duration>840.6988125</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/GeneEditing.mp3
+			</guid>
+			<pubDate>Wed, 10 Jan 2024 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+
 	</channel>
 </rss>
 

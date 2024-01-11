@@ -13,7 +13,7 @@ size = str(statinfo.st_size)
 audio = MP3(mp3filename)
 length = str(audio.info.length)
  
-xmlfile = "<enclosure url='https://PODCAST URL/{}' length='{}' type='audio/mpeg'/>\n".format(mp3filename,size)
+xmlfile = "<enclosure url='https://ketakiB.github.io/audio/{}' length='{}' type='audio/mp3'/>\n".format(mp3filename,size)
 xmlfile += "<itunes:duration>{}</itunes:duration>\n".format(length)
 
 print(xmlfile)
