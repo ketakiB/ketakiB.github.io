@@ -505,6 +505,35 @@ This episode delves into the groundbreaking world of gene editing. Explore how C
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 
+		<item>
+			<title> The Unbounded Universe of Stephen Hawking  </title>
+			<itunes:title> The Unbounded Universe of Stephen Hawking </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				The Unbounded Universe of Stephen Hawking
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+Journey through the stars and into the life and groundbreaking discoveries of a cosmic legend in this episode. Uncover the secrets of black holes and the origins of our universe, told in a way that bridges the gap between science and wonder. Tune in and be inspired by the story of a mind that explored the infinite, defying the limits of both space and human potential.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Journey through the stars and into the life and groundbreaking discoveries of a cosmic legend in this episode. Uncover the secrets of black holes and the origins of our universe, told in a way that bridges the gap between science and wonder. Tune in and be inspired by the story of a mind that explored the infinite, defying the limits of both space and human potential.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/StephenHawking.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/StephenHawking.mp3' length='23069593' type='audio/mp3'/>
+			<itunes:duration>720.79678125</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/StephenHawking.mp3
+			</guid>
+			<pubDate>Mon, 15 Jan 2024 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>s
 	</channel>
 </rss>
 
