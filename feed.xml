@@ -533,7 +533,38 @@ Journey through the stars and into the life and groundbreaking discoveries of a 
 			</guid>
 			<pubDate>Mon, 15 Jan 2024 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
-		</item>s
+		</item>
+
+		<item>
+			<title> Winter Warriors: The Remarkable Ways Animals Brave the Cold </title>
+			<itunes:title> Winter Warriors: The Remarkable Ways Animals Brave the Cold </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				Winter Warriors: The Remarkable Ways Animals Brave the Cold
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+Plunge into the icy world of winter wildlife in our latest episode, 'Winter Warriors: The Remarkable Ways Animals Brave the Cold.' Discover astounding survival tactics, from bears in deep hibernation to frogs that freeze and thaw. Join us as we unveil the secret lives of nature's most resilient inhabitants against the harshest of winters
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Plunge into the icy world of winter wildlife in our latest episode, 'Winter Warriors: The Remarkable Ways Animals Brave the Cold.' Discover astounding survival tactics, from bears in deep hibernation to frogs that freeze and thaw. Join us as we unveil the secret lives of nature's most resilient inhabitants against the harshest of winters
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/WinterSurvival.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/WinterAnimals.mp3' length='20229978' type='audio/mp3'/>
+            <itunes:duration>632.0588125</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/WinterAnimals.mp3
+			</guid>
+			<pubDate>Sun, 21 Jan 2024 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+
 	</channel>
 </rss>
 
