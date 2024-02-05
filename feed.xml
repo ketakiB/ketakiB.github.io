@@ -565,6 +565,35 @@ Plunge into the icy world of winter wildlife in our latest episode, 'Winter Warr
 			<itunes:explicit>false</itunes:explicit>
 		</item>
 
+		<item>
+			<title> The Costco Conundrum: How Bulk Selling Equals Big Business </title>
+			<itunes:title> The Costco Conundrum: How Bulk Selling Equals Big Business </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				The Costco Conundrum: How Bulk Selling Equals Big Business
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+Unveil the secrets behind Costco's colossal success in in this episode! Dive deep into the ingenious strategies that allow Costco to maintain low prices and high wages, while still turning a profit. Join us as we explore the unique business model, cost-saving tactics, and the pivotal role of membership fees in Costco's retail revolution.
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Unveil the secrets behind Costco's colossal success in this episode! Dive deep into the ingenious strategies that allow Costco to maintain low prices and high wages, while still turning a profit. Join us as we explore the unique business model, cost-saving tactics, and the pivotal role of membership fees in Costco's retail revolution.
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/Costco.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Costco.mp3' length='17798291' type='audio/mp3'/>
+			<itunes:duration>556.06859375</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Costco.mp3
+			</guid>
+			<pubDate>Sun, 04 Feb 2024 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
