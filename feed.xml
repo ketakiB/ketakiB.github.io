@@ -594,6 +594,36 @@ Unveil the secrets behind Costco's colossal success in this episode! Dive deep i
 			<pubDate>Sun, 04 Feb 2024 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+
+				<item>
+			<title> The Three Body Problem - Episode 1 </title>
+			<itunes:title> The Three Body Problem - Episode 1 </itunes:title>
+			<itunes:author>Ketaki Bhatkhande</itunes:author>
+			<itunes:subtitle>
+				The Three Body Problem - Episode 1
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode, we explore the fascinating puzzle of the three-body problem—how the motion of three celestial bodies interacting through gravity becomes wildly unpredictable and chaotic. From Newton's early work on two-body systems to modern chaos theory, we’ll uncover why adding a third body complicates everything in ways that have stumped scientists for centuries
+]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode, we explore the fascinating puzzle of the three-body problem—how the motion of three celestial bodies interacting through gravity becomes wildly unpredictable and chaotic. From Newton's early work on two-body systems to modern chaos theory, we’ll uncover why adding a third body complicates everything in ways that have stumped scientists for centuries
+]]>
+			</description>
+			<itunes:image href="https://ketakiB.github.io/Three Body problem Ep 1.png"/>
+			<enclosure url='https://ketakiB.github.io/audio/Three body problem Ep 1.mp3' length='15942552' type='audio/mp3'/>
+			<itunes:duration>498.07675</itunes:duration>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://ketakiB.github.io/audio/Three body problem Ep 1.mp3
+			</guid>
+			<pubDate>Sun, 14 Oct 2024 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
